@@ -25,6 +25,8 @@ Use the Role Object pattern, if:
 - You want to treat the extensions transparently and need to preserve the logical object identity of the resultingobject conglomerate.
 - You want to keep role/client pairs independent from each other so that changes to a role do not affect clients that are not interested in that role.
 
+## What wekipiadia says
+
 ## Credits
 
 - [Hillside - Role object pattern](https://hillside.net/plop/plop97/Proceedings/riehle.pdf)
